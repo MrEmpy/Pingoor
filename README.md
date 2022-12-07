@@ -4,11 +4,6 @@
 
 <p align="center">Pingoor is a backdoor developed in C for the GNU/Linux operating system. Its main characteristic is to use the ICMP protocol to give the attacker access to the shell of a machine, making its access persistent with little noise.</p>
 
-## Help
-
-![](assets/help.png)
-
-
 ## Installation
 
 ```
