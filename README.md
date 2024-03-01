@@ -21,9 +21,9 @@ nc -lnvp <YOURPORT>
 
 ## Buy me a coffee?
 
-<img src="https://static.livepix.gg/images/logo.svg" height="50" widght="50">
+<img src="https://pixgg.com/img/logo-darkmode.046d3b61.svg" height="30" widght="30">
 
-[LivePix](https://livepix.gg/mrempy)
+[PixGG](https://pixgg.com/MrEmpy)
 
 <img src="https://play-lh.googleusercontent.com/aMb_Qiolzkq8OxtQZ3Af2j8Zsp-ZZcNetR9O4xSjxH94gMA5c5gpRVbpg-3f_0L7vlo" height="50" widght="50">
 
